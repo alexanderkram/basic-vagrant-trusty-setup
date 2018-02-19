@@ -5,7 +5,7 @@
 * Vagrant
 * VirtualBox
 
-## How to use
+## Usage
 
 * `$ vagrant up`
 * open `192.168.33.10` in your Browser
